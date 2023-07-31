@@ -1,6 +1,5 @@
 # When You Get Bored Listening to Classes, You Make Games
-
-Welcome to the WhenYouGetBoredListeningToClassesYouMakeGame repository! Here, you will find a collection of fun and engaging terminal-based games created by [Your Name] to beat the boredom during classes. These games are built using Python and C++, offering exciting challenges without the need for a graphical user interface (UI).
+Welcome to the WhenYouGetBoredListeningToClassesYouMakeGame repository! Here, you'll discover an exciting collection of terminal-based games created during moments of creative inspiration when the classroom gets a bit too monotonous.
 
 ## Games Included
 
@@ -16,14 +15,7 @@ Welcome to the WhenYouGetBoredListeningToClassesYouMakeGame repository! Here, yo
 
 Each game comes with detailed instructions on how to play. Simply navigate to the respective game's folder and follow the guidelines provided in the README file.
 
-## Installation
-
-To run any of the games, you need to have Python or C++ installed on your machine. Please refer to the README files within each game's folder for specific installation instructions.
-
-## License
-
-This project is licensed under the MIT License. Please see the LICENSE file for details.
 
 ---
 
-Thank you for exploring the WhenYouGetBoredListeningToClassesYouMakeGame repository! Have fun playing the games and stay tuned for more exciting additions to this collection. If you encounter any issues or have suggestions for new games, feel free to reach out. Happy gaming! 🎮
+Thank you for exploring the WhenYouGetBoredListeningToClassesYouMakeGame repository! Have fun playing the games and enjoy those moments of creative game development during class breaks. If you encounter any issues or have suggestions for new games, feel free to reach out. Happy gaming! 🎮
