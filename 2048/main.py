@@ -4,7 +4,7 @@ class Game2042:
     def __init__(self):
         self.board=[[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
         self.dir='a'
-        self.input=['w','a','s','d']
+        self.input=['w','a','s','d','exit']
         self.createBoard()
         self.play()
 
@@ -77,6 +77,9 @@ class Game2042:
                         self.board[start][k]=self.board[j][k]
                         self.board[j][k]=0
                         start-=1
+
+        elif self.dir=='exit':
+            exit()
         
 
 
